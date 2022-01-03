@@ -3,5 +3,5 @@ This app can create any custom color using the RGB color scale while also provid
 
 
 ### Demo
-<img src="https://github.com/dcond007/Windows-Theme-Scheduler/blob/main/walkthrough/1.png" width="600">
+<img src="https://github.com/dcond007/RGB-Color-Gen/blob/main/Color_Gauge.gif" width="300">
 
