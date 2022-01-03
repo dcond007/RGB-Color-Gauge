@@ -1,4 +1,4 @@
-# RGB-Color-Gen
+# RGB Color Gauge
 
 This app provides RGB percentage, scale, and a hex code values for any color of your choice. 
 
